@@ -1,0 +1,4 @@
+hyy, my self sudarshan agrawal 
+i write program in c language
+its my first time to read file using c language 
+its is not to much hard as i think
